@@ -6,4 +6,8 @@ public class Day2Demo {
 		System.out.println("Pushing code...");
 		
 	}
+	public void newTopic(String gitHub) {
+		
+		System.out.println("New learning");
+	}
 }
