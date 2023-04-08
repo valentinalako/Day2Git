@@ -10,4 +10,9 @@ public class Day2Demo {
 		
 		System.out.println("New learning");
 	}
+	
+	public void getNewTopcikInfo() {
+		
+		System.out.println("Third try");
+	}
 }
