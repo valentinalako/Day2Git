@@ -26,4 +26,6 @@ public class Day2Demo {
 	
 	String country="USA";
 	
+	String gitHub="Second try";
+	
 }
